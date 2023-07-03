@@ -1,1 +1,1 @@
-# puzzle_game_using_java
+This project uses Java language to create an interesting and challenging puzzle game. Java Swing, JPanel, JFrame, and Java AWT are some Java language elements that have been an important part of the project.
